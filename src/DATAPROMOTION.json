@@ -1,0 +1,32 @@
+{
+  "voucher": [
+    {
+      "id": "1",
+      "name": "Sushi Tea",
+      "nominal": "50K", 
+      "code": "sushitea50k",
+      "description": "Dengan minimum pembelian 100K anda dapat menggunakan voucher ini untuk mendapatkan potongan 50K",
+      "pictureId": "https://nfl30.com/img/BlackVoucher.png",
+      "expired": "30 Jun 2022"
+      
+    },
+    {
+      "id": "2",
+      "name": "Steak Gan",
+      "nominal": "50K", 
+      "code": "gunsteak50k",
+      "description": "Dengan minimum pembelian 100K anda dapat menggunakan voucher ini untuk mendapatkan potongan 50K",
+      "pictureId": "https://nfl30.com/img/BlackVoucher.png",
+      "expired": "30 Jun 2022"
+    },
+    {
+      "id": "3",
+      "name": "Sei Sapi Ada Lada",
+      "nominal": "30K", 
+      "code": "adalada30k",
+      "description": "Dengan minimum pembelian 70K anda dapat menggunakan voucher ini untuk mendapatkan potongan 30K",
+      "pictureId": "https://nfl30.com/img/BlackVoucher.png",
+      "expired": "30 Jun 2022"
+    }
+  ]
+}
